@@ -1,7 +1,7 @@
 # Refactoring Code for Accessibility - Module 1 Challenge
 
 ## Deployed Link
-https://github.com/mkundu16/urban-octo-telegram.git
+https://mkundu16.github.io/Code-Refactor-Challenge-1/
 
 ## Screenshot
 ![screenshot](https://user-images.githubusercontent.com/62515666/235405263-8aaa5e1c-5dbf-4470-9e3d-ab38297b37c3.png)
